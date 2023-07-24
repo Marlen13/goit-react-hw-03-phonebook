@@ -1,0 +1,10 @@
+.contact_item {
+    padding: 5px;
+}
+
+.btn_delete {
+    margin-left: 10px;
+    background-color: #fff;
+        border-radius: 4px;
+        border: 1px solid rgb(219, 212, 212)
+}

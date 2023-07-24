@@ -1,0 +1,31 @@
+.contactform {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px;
+    width: 300px;
+    border: 1px solid rgb(128, 119, 119);
+}
+.contact_label {
+  
+    display: block;
+    cursor: pointer;
+
+
+}
+.contact_input {
+    display: block;
+    padding: 4px;
+    font-size: 12px;
+    border-radius: 2px;
+    border: 1px solid rgb(219, 212, 212)
+}
+.contact_btn {
+    width: 100px;
+    font-size: 12px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: 1px solid rgb(219, 212, 212)
+
+
+}
